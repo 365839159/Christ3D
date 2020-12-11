@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Infrastruct.Data\\Christ3D.Infrastruct.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj",
+        "projectName": "Christ3D.Domain",
+        "projectPath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Infrastruct.Data\\Christ3D.Infrastruct.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Infrastruct.Data\\Christ3D.Infrastruct.Data.csproj",
+        "projectName": "Christ3D.Infrastruct.Data",
+        "projectPath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Infrastruct.Data\\Christ3D.Infrastruct.Data.csproj",
+        "packagesPath": "C:\\Users\\xian_cheng\\.nuget\\packages\\",
+        "outputPath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Infrastruct.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xian_cheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj": {
+                "projectPath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
