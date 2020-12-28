@@ -1,0 +1,12 @@
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.csprojAssemblyReference.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.AssemblyInfoInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.AssemblyInfo.cs
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.csproj.CoreCompileInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.0\Christ3D.Infrastruct.deps.json
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.0\Christ3D.Infrastruct.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.0\Christ3D.Infrastruct.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.0\Christ3D.Domain.Core.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\bin\Debug\netstandard2.0\Christ3D.Domain.Core.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.csproj.CopyComplete
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Infrastruct\obj\Debug\netstandard2.0\Christ3D.Infrastruct.pdb

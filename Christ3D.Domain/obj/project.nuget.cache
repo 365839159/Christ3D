@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Qje+YLMmrTBOAgJUZMGmAwbRz2kMmscvJUHqmH1nEiKRlcaCSDhrVPBsFNVknoDGJjbMSWPf3tnGns/GpTNd3A==",
+  "dgSpecHash": "ny0mnZcyJVlT5mOuvwFfPCodMJr9wGkblzUbTzFc2Q6iPeOKcfxaMRb0ThDfDFu/+2TUJuhXP1E7bYO+skI/IQ==",
   "success": true,
   "projectFilePath": "D:\\创而新\\张显成\\领域驱动\\Christ3D\\Christ3D.Domain\\Christ3D.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.10\\microsoft.entityframeworkcore.abstractions.3.1.10.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xian_cheng\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

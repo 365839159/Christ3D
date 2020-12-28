@@ -1,0 +1,14 @@
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Application.deps.json
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Application.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Application.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Domain.Core.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Domain.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Domain.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\bin\Debug\netstandard2.0\Christ3D.Domain.Core.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.csprojAssemblyReference.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.AssemblyInfoInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.AssemblyInfo.cs
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.csproj.CoreCompileInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.csproj.CopyComplete
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ3D.Application\obj\Debug\netstandard2.0\Christ3D.Application.pdb

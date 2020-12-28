@@ -1,0 +1,8 @@
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\bin\Debug\netstandard2.0\Christ3D.Domain.Core.deps.json
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\bin\Debug\netstandard2.0\Christ3D.Domain.Core.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\bin\Debug\netstandard2.0\Christ3D.Domain.Core.pdb
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\obj\Debug\netstandard2.0\Christ3D.Domain.Core.AssemblyInfoInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\obj\Debug\netstandard2.0\Christ3D.Domain.Core.AssemblyInfo.cs
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\obj\Debug\netstandard2.0\Christ3D.Domain.Core.csproj.CoreCompileInputs.cache
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\obj\Debug\netstandard2.0\Christ3D.Domain.Core.dll
+D:\创而新\张显成\领域驱动\Christ3D\Christ.Domain.Core\obj\Debug\netstandard2.0\Christ3D.Domain.Core.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.UI.Web", "Christ3D.UI.Web.csproj", "{F6953144-BFA4-4E3A-8F08-9466C1BA4B12}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Domain", "..\Christ3D.Domain\Christ3D.Domain.csproj", "{627637EE-C6A8-410A-9414-DDDC9F886C06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Infrastruct.Data", "..\Christ3D.Infrastruct.Data\Christ3D.Infrastruct.Data.csproj", "{F2782D3C-59D1-4459-9F43-41105CFA0C1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Application", "..\Christ3D.Application\Christ3D.Application.csproj", "{ED146BAE-50D2-448F-8A6F-5D5A5DE09876}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Christ3D.Domain.Core", "..\Christ.Domain.Core\Christ3D.Domain.Core.csproj", "{F5C6D009-3BE2-4217-890B-4B9E73D5B240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Infrastruct", "..\Christ3D.Infrastruct\Christ3D.Infrastruct.csproj", "{2AF72363-6A54-4A28-9EA2-24259BFD94AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6953144-BFA4-4E3A-8F08-9466C1BA4B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6953144-BFA4-4E3A-8F08-9466C1BA4B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6953144-BFA4-4E3A-8F08-9466C1BA4B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6953144-BFA4-4E3A-8F08-9466C1BA4B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627637EE-C6A8-410A-9414-DDDC9F886C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627637EE-C6A8-410A-9414-DDDC9F886C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627637EE-C6A8-410A-9414-DDDC9F886C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627637EE-C6A8-410A-9414-DDDC9F886C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2782D3C-59D1-4459-9F43-41105CFA0C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2782D3C-59D1-4459-9F43-41105CFA0C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2782D3C-59D1-4459-9F43-41105CFA0C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2782D3C-59D1-4459-9F43-41105CFA0C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED146BAE-50D2-448F-8A6F-5D5A5DE09876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED146BAE-50D2-448F-8A6F-5D5A5DE09876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED146BAE-50D2-448F-8A6F-5D5A5DE09876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED146BAE-50D2-448F-8A6F-5D5A5DE09876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C6D009-3BE2-4217-890B-4B9E73D5B240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C6D009-3BE2-4217-890B-4B9E73D5B240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C6D009-3BE2-4217-890B-4B9E73D5B240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C6D009-3BE2-4217-890B-4B9E73D5B240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF72363-6A54-4A28-9EA2-24259BFD94AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF72363-6A54-4A28-9EA2-24259BFD94AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF72363-6A54-4A28-9EA2-24259BFD94AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF72363-6A54-4A28-9EA2-24259BFD94AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F530597D-7C56-436D-885A-BAD9D416D811}
+	EndGlobalSection
+EndGlobal
